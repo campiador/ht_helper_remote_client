@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Trojan Helper</string>
+    <string name="action_settings">info</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="server_port">Server Port Number</string>
+    <string name="server_ip">Server IP</string>
+
+</resources>
